@@ -1,0 +1,8 @@
+@startuml
+class Application
+{
+mainDriver()
+fileReader()
+fileWriter()
+}
+@enduml
